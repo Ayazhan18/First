@@ -1,0 +1,4 @@
+sequence = list(range(5, 15))
+print(sequence)
+
+
